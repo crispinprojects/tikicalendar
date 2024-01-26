@@ -1,2 +1,6 @@
-# tikicalendar
-personal desktop calendar for Linux
+# Tiki Calendar
+Tiki Calendar is a personal desktop calendar for Linux.
+
+
+
+
